@@ -1,3 +1,14 @@
+Front usuarios
+
+Este proyecto en react utilizando el framework next, realiza el registro e inicio de sesion de los usuarios, asi mismo contiene el CRUD de solicitudes
+
+1. Clona este repositorio en tu máquina local.
+2. Abre el proyecto en tu IDE favorito.
+3. Configura las credenciales de url y clave next-auh.
+4. Ejecuta npm install para descargar dependencias.
+5. Ejecuta la aplicación usando el comando npm run dev o desde el package.json.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
